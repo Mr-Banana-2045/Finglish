@@ -1,11 +1,11 @@
 ![تصویر صفحه 2024-06-19 141824](https://github.com/Mr-Banana-2045/Penglish/assets/109140672/f7242b33-d2f7-4b00-9403-28b272d0340b)
 ## URL
 http://mrbanana2024.000.pe/fin.php?text=
-## abute Penglish
+## abut Penglish
 <pre>
   واژه پنگلیش یا پینگلیش مخفف Parsi و English و یا Persian و English هست، که یعنی نوشتن زبان فارسی با خط انگلیسی. پنگلیش معادل‌های دیگری دارد: فنگلیسی یا فارگلیسی مخفف فارسی + انگلیسی. این سبک نوشتن از چت‌روم‌ها و SMSها به وجود آمده است
 </pre>
-## Character
+## Words
 * a = آ
 * ea = ع
 * b = ب
